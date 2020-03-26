@@ -5,7 +5,6 @@ const express = require("express")
 const app = express()
 const port = 5000;
 const bodyParser = require('body-parser')
-//const AuthService = require('./auth-service')
 const sqltest = require('./sqltest')
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
