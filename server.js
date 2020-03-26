@@ -1,5 +1,5 @@
 const appInsights = require("applicationinsights");
-appInsights.setup("0cecbb11-6f7e-4149-86be-86de783dad85");
+appInsights.setup("123-123-123-12-312-3123"); //update me
 appInsights.start();
 const express = require("express")
 const app = express()
@@ -18,8 +18,8 @@ const OktaJwtVerifier = require('@okta/jwt-verifier');
 var cors = require('cors');
 
 const oktaJwtVerifier = new OktaJwtVerifier({
-  issuer: 'https://dev-674282.okta.com/oauth2/default',
-  clientId: '0oa4fx7b4d788BltL4x6',
+  issuer: 'https://dev-xxxxx.okta.com/oauth2/default', //update me
+  clientId: '0x0x0x0x0x0x0x0', //update me
   assertClaims: {
     aud: 'api://default',
   },
