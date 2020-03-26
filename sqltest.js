@@ -6,13 +6,13 @@ const moment = require('moment')
 const config = {
   authentication: {
     options: {
-      userName: "adminx", // update me
-      password: "Rhapsody1@", // update me
+      userName: "xxxxxxx", // update me
+      password: "xxxxxxx", // update me
       rowCollectionOnRequestCompletion:true
     },
     type: "default"
   },
-  server: "granturis.database.windows.net", // update me
+  server: "xxxxxxx.database.windows.net", // update me
   options: {
     database: "granturismo", //update me
     encrypt: true
