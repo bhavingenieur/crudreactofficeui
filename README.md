@@ -2,6 +2,8 @@
 
 This project uses the Create React App as the base. You can add/delete/edit your scheduled pickups. Serves as a starter for building Scheduling apps.
 
+Check out the screenshots attached for the final output.
+
 Item | Library Used
 ------------ | -------------
 Components | Office UI Fabric React
