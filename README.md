@@ -26,3 +26,6 @@ I am using Nodemon to help with the refresh of server.js file on every edit.
 ```
 npm run server
 ```
+## Interactive Demo on Angular
+* Here is a demo of the same app with Angular 1.x: http://granturismo.herokuapp.com/ which uses MongoDB
+* Here is the same app implemented in Angular 6 : http://angular-fullstackapp.heroku.com with MongoDB
